@@ -3,5 +3,5 @@ Devops Python automaton Scripts for automating most of the daily AWS routine tas
 
 <h1> Things I learned - </h1>
 
-<b>1.) Python Coding <br>
-2.) AWS API (BOTO)</b>
+<b>Python Coding <br>
+AWS API (BOTO)</b>
